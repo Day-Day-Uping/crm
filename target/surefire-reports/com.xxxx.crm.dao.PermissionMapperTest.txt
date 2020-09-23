@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.xxxx.crm.dao.PermissionMapperTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in com.xxxx.crm.dao.PermissionMapperTest
+testUser  Time elapsed: 0.028 s  <<< ERROR!
+com.xxxx.crm.exceptions.ParamsException: 客户不存在
+	at com.xxxx.crm.dao.PermissionMapperTest.testUser(PermissionMapperTest.java:35)
+

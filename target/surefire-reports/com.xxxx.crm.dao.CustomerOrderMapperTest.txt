@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xxxx.crm.dao.CustomerOrderMapperTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.009 s - in com.xxxx.crm.dao.CustomerOrderMapperTest
